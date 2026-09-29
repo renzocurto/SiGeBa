@@ -1,4 +1,4 @@
-
+USE sigeba;
 
 INSERT INTO area (nombre)
 VALUES
