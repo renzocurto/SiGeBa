@@ -1,3 +1,5 @@
+USE sigeba;
+
 -- Consulta de la tabla agentes
 
 SELECT *
