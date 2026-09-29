@@ -1,3 +1,5 @@
+USE sigeba;
+
 -- Borramos registros en específico
 
 DELETE FROM acceso_permiso
