@@ -1,4 +1,4 @@
-
+USE sigeba;
 
 
 -- Listado de tramites con agente y estado
