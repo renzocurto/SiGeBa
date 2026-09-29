@@ -1,3 +1,5 @@
+USE sigeba;
+
 -- Insertamos datos para area, luego estados posibles, y dos sistemas
 
 INSERT INTO area (nombre)
