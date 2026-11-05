@@ -35,6 +35,7 @@ Permite visualizar los trámites registrados mediante una tabla, mostrando:
 
 ## Estructura del proyecto
 
+```text
 SiGeBa/
 ├── src/
 │   ├── App.java
@@ -54,7 +55,7 @@ SiGeBa/
 │   └── mysql-connector-j-26.10.0.jar
 ├── .gitignore
 └── README.md
-
+```
 ## Requisitos de ejecución
 
 Para ejecutar SiGeBa se necesita:
@@ -123,3 +124,7 @@ java -cp "bin:lib/*" App
 El código fuente y los archivos asociados se encuentran disponibles en:
 
 https://github.com/renzocurto/SiGeBa
+
+
+
+
