@@ -1,0 +1,9 @@
+# Archivos compilados de Java
+bin/
+*.class
+
+# Configuraciones locales y credenciales
+.env
+
+# Archivos del sistema macOS
+.DS_Store
